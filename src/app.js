@@ -39,7 +39,7 @@ class App extends React.Component {
         <Blockquote randomIndex={this.state.randomIndex} quote={this.state.text} author={this.state.author} />
         <Buttons handleClick={this.handleChange} />        
       </div>
-      <p>Исходники на <a href="https://github.com/injashkin/Random-Quote-Machine">GitHub</a>, а демо без тестов <a href="http://rmd.jinv.ru/">здесь</a></p>       
+      <p>Исходники на <a href="https://github.com/injashkin/Random-Quote-Machine">GitHub</a>, а демо без тестов <a href="http://projects.jinv.ru/projects/random-quote-machine/index.html">здесь</a></p>       
       </div>
     );
   }

@@ -75,7 +75,7 @@ var App = function (_React$Component) {
           ", \u0430 \u0434\u0435\u043C\u043E \u0431\u0435\u0437 \u0442\u0435\u0441\u0442\u043E\u0432 ",
           React.createElement(
             "a",
-            { href: "http://rmd.jinv.ru/" },
+            { href: "http://projects.jinv.ru/projects/random-quote-machine/index.html" },
             "\u0437\u0434\u0435\u0441\u044C"
           )
         )
